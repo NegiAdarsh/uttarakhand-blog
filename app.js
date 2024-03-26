@@ -36,7 +36,7 @@ app.use(express.static("public"));
 app.set('view engine', 'ejs');
 
 
-let link="mongodb+srv://dipishakalura1010:3Kfbvgl0pEJDrlDN@cluster0.oviirxi.mongodb.net/Posts"
+let link="mongodb+srv://adarshn6467:Test123@cluster0.w5zc3k5.mongodb.net/Posts"
 
 
 
